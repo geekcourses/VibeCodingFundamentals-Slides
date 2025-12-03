@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Module1_Lecture1_GenerativeLLMsConcepts</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="shortcut icon" type="image/jpg" href="/VibeCodingFundamentals-Slides/favicon.png"/>
+
+    <!-- css & themes include -->
+    <link rel="stylesheet" href="/VibeCodingFundamentals-Slides/lib/reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="/VibeCodingFundamentals-Slides/outfit/css/themes/light.css" id="theme">
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? '/VibeCodingFundamentals-Slides/outfit/css/print.css' : '/VibeCodingFundamentals-Slides/lib/reveal.js/css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+    <!-- CUSTOM -->
+    <base target="_blank">
+</head>
+<body>
+    <div class="reveal default center" data-transition-speed="default" data-background-transition="default">
+        <div class="top_links">
+            <a class="home_link" href="/VibeCodingFundamentals-Slides/pages/agenda/agenda.html#Module1_Lecture1_GenerativeLLMsConcepts" target="_top"></a>
+            <span class="help_link"><i class="fa fa-question"></i></span>
+            <div class="help_text">
+                <div class="note">Keyboard shortcuts:</div>
+                <div><span>N/Спейс</span><span>Next Slide</span></div>
+                <div><span>P</span><span>Previous Slide</span></div>
+                <div><span>O</span><span>Slides Overview</span></div>
+                <div><span>ctrl+left click</span><span>Zoom Element</span></div>
+                <div class="print-howto"><br>If you want print version => add '<code>?print-pdf</code>' <br> at the end of slides URL (remove '#' fragment) and then print. <br>
+                Like: https://wwwcourses.github.io/...CourseIntro.html?print-pdf </div>
+            </div>
+        </div>
+        <div class="footer theme_switch">
+            <a href="#" onclick="document.getElementById('theme').setAttribute('href','/VibeCodingFundamentals-Slides/outfit/css/themes/dark.css'); return false;">Dark</a>
+            <a href="#" onclick="document.getElementById('theme').setAttribute('href','/VibeCodingFundamentals-Slides/outfit/css/themes/light.css'); return false;">Light</a>
+            <a href="#" onclick="document.getElementById('theme').setAttribute('href','/VibeCodingFundamentals-Slides/outfit/css/themes/projector.css'); return false;">Projector</a>
+        </div>
+        <div class="slides">
+<!--
+########################################################
+##################### SLIDES START #####################
+########################################################
+-->
+<section class="main-section-title"><h1>Introduction to Vibe Coding.<br>Basic Concepts and Principles of Generative Large Language Models (LLMs)</h1></section>
+<section data-transition="zoom">
+    <section class="copyright" data-transition="zoom">
+        <div class="note">
+            <p>Created for</p>
+        </div>
+        <div class="company">
+            <a href="https://softwareacademy.bg/">
+            <img style="height:80%" src="/VibeCodingFundamentals-Slides/outfit/images/logos/software-web@4x.png" alt="software-web@4x.png">
+            </a>
+        </div>
+        <div class="author">
+            <span class="note"><a href="https://www.linkedin.com/in/ivapopova/">Iva E. Popova</a>, 2025-2026,</span>
+            <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
+            <!-- <i class="fa fa-linkedin"></i> -->
+        </div>
+    </section>
+</section>
+
+
+<section class="main-section-title" id="what-is-vibe-coding"><h1>What is Vibe Coding?</h1></section>
+<section class="sub-sections"><h2>Definition and Essence</h2>
+    <section id="concept-visual" data-transition="zoom">
+        <img src="images/vibe_coding_concept.png" alt="Vibe Coding Concept: Flow State and Intent">
+    </section>
+    <section id="definition"><h3>The Concept</h3>
+        <p>Vibe Coding is a paradigm shift in software development where the focus moves from manual syntax construction to high-level intent and flow management.</p>
+        <p class="fragment">It involves "vibing" with the AI—guiding it through natural language to achieve the desired outcome, treating the AI as a capable pair programmer or even a junior developer.</p>
+    </section>
+    <section id="core-philosophy"><h3>Core Philosophy</h3>
+        <ul>
+            <li><strong>Intent over Syntax:</strong> You define <em>what</em> you want, the AI figures out <em>how</em>.</li>
+            <li><strong>Flow State:</strong> Maintaining a continuous creative flow without getting bogged down in boilerplate.</li>
+            <li><strong>Curator Mindset:</strong> The developer becomes a reviewer and architect, curating the AI's output.</li>
+        </ul>
+    </section>
+</section>
+
+<section class="main-section-title" id="history"><h1>History and Popularization</h1></section>
+<section class="sub-sections"><h2>Origins</h2>
+    <section id="history-visual" data-transition="zoom">
+        <img src="images/history_timeline.png" alt="History of Coding Timeline">
+    </section>
+    <section id="karpathy"><h3>Andrej Karpathy's Influence</h3>
+        <p>The term "Vibe Coding" was significantly popularized by Andrej Karpathy.</p>
+        <blockquote cite="https://twitter.com/karpathy">
+            "I just want to write the vibe of the code, not the code itself."
+        </blockquote>
+        <a href="https://x.com/karpathy/status/1886192184808149383?lang=en">https://x.com/karpathy/status/1886192184808149383?lang=en</a>
+        <p class="fragment">By 2025, this concept evolved from a meme to a legitimate development methodology, driven by the capabilities of advanced models like GPT-4, Claude 3.5, and Gemini.</p>
+    </section>
+    <section id="evolution"><h3>The Timeline</h3>
+        <ul>
+            <li><strong>Pre-2023:</strong> Traditional coding & basic autocomplete.</li>
+            <li><strong>2023-2024:</strong> Rise of Copilots and Chat-based coding (AI-Assisted).</li>
+            <li><strong>2025:</strong> Vibe Coding—AI manages entire files and features based on high-level "vibes" or specs.</li>
+        </ul>
+    </section>
+</section>
+
+<section class="main-section-title" id="differences"><h1>Evolution of Coding</h1></section>
+<section class="sub-sections"><h2>Comparison</h2>
+    <section id="diagram" data-transition="zoom">
+        <img src="images/evolution_of_coding.png" alt="Evolution of Coding: Traditional vs AI-Assisted vs Vibe Coding">
+    </section>
+    <section id="traditional"><h3>Traditional Programming</h3>
+        <dl class="fa">
+            <dt>Role</dt><dd>Writer & Architect</dd>
+            <dt>Focus</dt><dd>Syntax, Logic, Memory Management, Libraries</dd>
+            <dt>Tooling</dt><dd>IDEs, Compilers, Debuggers</dd>
+        </dl>
+    </section>
+    <section id="ai-assisted"><h3>AI-Assisted Development</h3>
+        <dl class="fa">
+            <dt>Role</dt><dd>Driver (with a Navigator)</dd>
+            <dt>Focus</dt><dd>Code completion, Function generation, Refactoring</dd>
+            <dt>Tooling</dt><dd>GitHub Copilot, Cursor Tab</dd>
+        </dl>
+    </section>
+    <section id="vibe-coding"><h3>Vibe Coding</h3>
+        <dl class="fa">
+            <dt>Role</dt><dd>Director & Reviewer</dd>
+            <dt>Focus</dt><dd>System Design, User Experience, Edge Cases, "The Vibe"</dd>
+            <dt>Tooling</dt><dd>Agentic IDEs, Autonomous Agents</dd>
+        </dl>
+    </section>
+    <section><h3>Reference</h3>
+        <iframe width="620" height="345" src="https://www.youtube.com/embed/LCEmiRjPEtQ" title="Andrej Karpathy: Software Is Changing (Again)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+</section>
+
+<section class="main-section-title" id="llms"><h1>Understanding LLMs</h1></section>
+<section class="sub-sections"><h2>Under the Hood</h2>
+    <section id="pipeline-visual" data-transition="zoom">
+        <img src="images/llm_pipeline.png" alt="LLM Training Pipeline">
+    </section>
+    <section id="how-they-work"><h3>How LLMs Work</h3>
+        <p>At their core, Large Language Models are <strong>next-token predictors</strong>.</p>
+        <p>They don't "know" facts in the human sense; they understand statistical relationships between words (tokens) based on massive amounts of training data.</p>
+    </section>
+    <section id="training-stages"><h3>Training Pipeline</h3>
+        <ol>
+            <li><strong>Pre-training:</strong> Learning grammar, facts, and reasoning from the internet (unsupervised).</li>
+            <li><strong>Fine-tuning (SFT):</strong> Learning to follow instructions and answer questions (supervised).</li>
+            <li><strong>RLHF:</strong> Reinforcement Learning from Human Feedback to align with human preferences (safety, helpfulness).</li>
+        </ol>
+    </section>
+    <section id="effective-usage"><h3>Working Effectively with LLMs</h3>
+        <ul>
+            <li><strong>Context is King:</strong> Provide clear, comprehensive context.</li>
+            <li><strong>Iterative Refinement:</strong> Don't expect perfection in shot one. Converse and refine.</li>
+            <li><strong>Verification:</strong> Always review the code. LLMs can hallucinate (make things up).</li>
+            <li><strong>Prompt Engineering:</strong> The skill of clearly articulating the "vibe" or requirement.</li>
+        </ul>
+    </section>
+</section>
+
+<!--
+<section id="hw"><h1>Exercises</h1></section>
+<section class="sub-sections"><h2>Task1</h2>
+    <section><h3>The Task</h3>
+
+    </section>
+</section> -->
+
+<!-- <section><h3>Submission</h3>
+    <dl class="fa">
+        <dt>Please, prefix your filenames/archive with your name initials, before sending.</dt>
+        <dd>For instance: <b>iep_task1.py</b> or <b>iep_tasks.rar</b></dd>
+        <dt>Send files to <a href="mailto:ivawebcourses@gmail.com?Subject=HW: Module1_Lecture1_GenerativeLLMsConcepts">ivawebcourses@gmail.com</a></dt>
+    </dl>
+</section> -->
+
+
+
+<section class="disclaimer end-slide"></section>
+<!--
+########################################################
+##################### SLIDES END   #####################
+########################################################
+-->
+        </div>
+    </div>
+    <!-- Custom processing -->
+    <script src="/VibeCodingFundamentals-Slides/outfit/js/slides.js"></script>
+    <!-- external scripts -->
+    <script src="/VibeCodingFundamentals-Slides/lib/reveal.js/lib/js/head.min.js"></script>
+    <script src="/VibeCodingFundamentals-Slides/lib/reveal.js/js/reveal.js"></script>
+     <!-- init reveal -->
+    <script>
+        // Full list of configuration options available at:
+        // https://github.com/hakimel/reveal.js#configuration
+        var highlightjsTabSize = '  ';
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            slideNumber: 'c/t',
+            keyboard: true,
+            history: true,
+            center: true,
+            width: 1920,
+            height: 1280,
+            // Bounds for smallest/largest possible scale to apply to content
+            // minScale: .5,
+            maxScale: 1,
+            // slide transition
+            transition: 'concave', // none/fade/slide/convex/concave/zoom
+            // Factor of the display size that should remain empty around the content
+            margin: 0.1,
+            // shift+left click to zoom in/out element
+            zoomKey: 'ctrl',
+            // theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+            // transition: Reveal.getQueryHash().transition || 'default'
+            // Optional reveal.js plugins
+            dependencies: [
+                { src: '/VibeCodingFundamentals-Slides/lib/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: '/VibeCodingFundamentals-Slides/lib/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: '/VibeCodingFundamentals-Slides/lib/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: '/VibeCodingFundamentals-Slides/lib/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.configure({tabReplace: highlightjsTabSize}); hljs.initHighlightingOnLoad(); } },
+                { src: '/VibeCodingFundamentals-Slides/lib/reveal.js/plugin/zoom-js/zoom.js', async: true },
+                { src: '/VibeCodingFundamentals-Slides/lib/reveal.js/plugin/notes/notes.js', async: true }
+            ]
+        });
+    </script>
+</body>
+</html>

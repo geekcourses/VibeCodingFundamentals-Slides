@@ -1,0 +1,1350 @@
+<div class="affiliate-market-guide mb65 mt-5">
+                                    <div class="row">
+							<div class="section-title-2 mb20 headline text-left col-md-6">
+                        <h2>Програма <span>на курса:</span></h2>
+                     </div>
+
+                                          </div>
+                     <div class="affiliate-market-accordion">
+								<div id="accordion" class="panel-group">
+
+
+
+
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading1">
+											<div class="ac-head">
+												<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+													<span>
+                                          01                                       </span>
+                                       <div>Основни концепции и принципи на Генеративните Езикови Модели (LLMs):   (04.12.2025 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 1: Въведение в Vibe Coding, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse1" class="collapse" aria-labelledby="collapse1" data-parent="#accordion" style="">
+											<div class="panel-body">
+												<p>•Какво е Vibe Coding? История и популяризация (Андрей Карпати, 2025). Разлики между традиционно програмиране, “AI-подпомогнато разработване” и Vibe Coding.
+Как работят, как се обучават и какво е важно да знаем, за да работим с тях ефективно.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="1">
+                                <input type="hidden" name="site_modul_id" value="7707">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading2">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+													<span>
+                                          02                                       </span>
+                                       <div>Екосистема от инструменти. Запознаване с VSCode и GitHub Copilot  (09.12.2025 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 1: Въведение в Vibe Coding, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse2" class="collapse show" aria-labelledby="collapse2" data-parent="#accordion" style="">
+											<div class="panel-body">
+												<p>Преглед на съвременните AI инструменти (Replit, Bolt, Windsurf, ChatGPT, GitHub Copilot, Cursor, Claude Code и др.). Обсъждане на техните силни и слаби страни. Как да изберем правилния AI инструмент за конкретна задача?
+Инсталация, основен интерфейс, основни настройки.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="2">
+                                <input type="hidden" name="site_modul_id" value="7708">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading3">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+													<span>
+                                          03                                       </span>
+                                       <div>Vibe Coding работен процес (workflow). Демонстрация  (11.12.2025 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 1: Въведение в Vibe Coding, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse3" class="collapse " aria-labelledby="collapse3" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Идея → промпт → код → преглед → версия → тест → деплой. Преминаване “от идея към код само с промптове (prompts)”. Пример за създаване на просто Уеб приложение с Bolt. </p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="3">
+                                <input type="hidden" name="site_modul_id" value="7709">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading4">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+													<span>
+                                          04                                       </span>
+                                       <div>Основи на промптовете. Техники за контекстуализиране.   (16.12.2025 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 2: Prompt Engineering и ефективна комуникация с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse4" class="collapse " aria-labelledby="collapse4" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Структуриране на ясни и ефективни промптове. •Как да дадем на AI необходимия контекст, за да получим точен резултат (ролева игра, уточняване на формата на отговора, включване на примерни данни).</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="4">
+                                <input type="hidden" name="site_modul_id" value="7711">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading5">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+													<span>
+                                          05                                       </span>
+                                       <div>Техники за оптимизация на промптове  (18.12.2025 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 2: Prompt Engineering и ефективна комуникация с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse5" class="collapse " aria-labelledby="collapse5" data-parent="#accordion">
+											<div class="panel-body">
+												<p> chain of thought, few-shot learning, итеративно подобрение, и др.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="5">
+                                <input type="hidden" name="site_modul_id" value="7712">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading6">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+													<span>
+                                          06                                       </span>
+                                       <div>Създаване на промпт библиотеки и практически съвети.   (06.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 2: Prompt Engineering и ефективна комуникация с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse6" class="collapse " aria-labelledby="collapse6" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Организация и преизползване на ефективни промптове. Как да се справяме с често срещани проблеми като “халюцинации” и неточности.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="6">
+                                <input type="hidden" name="site_modul_id" value="7713">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading7">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse7" aria-expanded="true" aria-controls="collapse7">
+													<span>
+                                          07                                       </span>
+                                       <div>Практика  (08.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 2: Prompt Engineering и ефективна комуникация с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse7" class="collapse " aria-labelledby="collapse7" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Създаване на бърз прототип на приложение в различни чат-базирани интерфейси (ChatGPT/Claude/Gemini)</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="7">
+                                <input type="hidden" name="site_modul_id" value="7714">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading8">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse8">
+													<span>
+                                          08                                       </span>
+                                       <div>Основни принции. Git и GitHub интеграция във VSCode, интеграция с AI.   (13.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 3: Управление на проекти с Git и AI , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse8" class="collapse " aria-labelledby="collapse8" data-parent="#accordion">
+											<div class="panel-body">
+												<p>•Защо е важен контролът на версиите. Използване на Git и GitHub за контрол на версите и управление на проекта.
+как да използваме вградените Git функции на VSCode за управление на версиите директно от редактора.
+Как да използваме AI за автоматично генериране на commit съобщения и управление на репозитори.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="8">
+                                <input type="hidden" name="site_modul_id" value="7716">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading9">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse9" aria-expanded="true" aria-controls="collapse9">
+													<span>
+                                          09                                       </span>
+                                       <div>Междинен Проект 1  (15.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Междинен Проект 1: Проектиране на приложение само с промптове , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse9" class="collapse " aria-labelledby="collapse9" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Проект </p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="9">
+                                <input type="hidden" name="site_modul_id" value="7718">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading10">
+											<div class="ac-head">
+												<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+													<span>
+                                          10                                       </span>
+                                       <div>Запознаване с Cursor  (20.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 4: Vibe Coding с Cursor AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse10" class="collapse" aria-labelledby="collapse10" data-parent="#accordion" style="">
+											<div class="panel-body">
+												<p>Какво е Cursor, как е свързан с VSCode.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="10">
+                                <input type="hidden" name="site_modul_id" value="7720">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading11">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse11" aria-expanded="true" aria-controls="collapse11">
+													<span>
+                                          11                                       </span>
+                                       <div>Context-aware (цялостно разбиране на проекта)  (22.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 4: Vibe Coding с Cursor AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse11" class="collapse " aria-labelledby="collapse11" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Как AI индексира цялата кодова база.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="11">
+                                <input type="hidden" name="site_modul_id" value="7721">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading12">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse12" aria-expanded="true" aria-controls="collapse12">
+													<span>
+                                          12                                       </span>
+                                       <div>Режими на работа  (27.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 4: Vibe Coding с Cursor AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse12" class="collapse " aria-labelledby="collapse12" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Детайлно разглеждане на режими като “Ask”, “Edit” и “Agent”. Работа в “YOLO” (експериментален) режим.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="12">
+                                <input type="hidden" name="site_modul_id" value="7722">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading13">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse13" aria-expanded="true" aria-controls="collapse13">
+													<span>
+                                          13                                       </span>
+                                       <div>Дефиниране на правила. Практика   (29.01.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 4: Vibe Coding с Cursor AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse13" class="collapse " aria-labelledby="collapse13" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Как да зададем правила за работа и ограничения на AI. Разработване на приложение за анализ и визуализация на данни.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="13">
+                                <input type="hidden" name="site_modul_id" value="7723">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading14">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse14" aria-expanded="true" aria-controls="collapse14">
+													<span>
+                                          14                                       </span>
+                                       <div>Междинен Проект 2  (03.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Междинен Проект 2: Разработване на приложение с Cursor , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse14" class="collapse " aria-labelledby="collapse14" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Цел: Създаване на приложение с помощта на Cursor AI с акцент върху context-aware възможностите на инструмента.
+Дискусия и обратна връзка върху представените проекти.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="14">
+                                <input type="hidden" name="site_modul_id" value="7725">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading15">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse15" aria-expanded="true" aria-controls="collapse15">
+													<span>
+                                          15                                       </span>
+                                       <div>Намиране и отстраняване на грешки (debugging. Генериране на тестове  (05.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 5: Качество на кода: Дебъгване, Тестване и Рефакториране с AI , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse15" class="collapse " aria-labelledby="collapse15" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Как да използваме AI за анализ на логове и съобщения за грешки. •Как да използваме AI инструменти като GitHub Copilot за писане на unit тестове. </p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="15">
+                                <input type="hidden" name="site_modul_id" value="7727">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading16">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse16" aria-expanded="true" aria-controls="collapse16">
+													<span>
+                                          16                                       </span>
+                                       <div>Рефакториране на код  (10.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 5: Качество на кода: Дебъгване, Тестване и Рефакториране с AI , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse16" class="collapse " aria-labelledby="collapse16" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Как да подобрим качеството на AI-генерирания код.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="16">
+                                <input type="hidden" name="site_modul_id" value="7728">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading17">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse17" aria-expanded="true" aria-controls="collapse17">
+													<span>
+                                          17                                       </span>
+                                       <div>Практика  (12.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 5: Качество на кода: Дебъгване, Тестване и Рефакториране с AI , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse17" class="collapse " aria-labelledby="collapse17" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Създаване на тестове за съществуващ код с помощта на GitHub Copilot или Cursor.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="17">
+                                <input type="hidden" name="site_modul_id" value="7729">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading18">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse18" aria-expanded="true" aria-controls="collapse18">
+													<span>
+                                          18                                       </span>
+                                       <div>Междинен Проект 3: Тестване и рефакториране на съществуващ код   (17.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Междинен Проект 3: Тестване и рефакториране на съществуващ код , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse18" class="collapse " aria-labelledby="collapse18" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Цел: Подобряване на съществуващ код чрез тестване и рефакториране с помощта на AI. Курсистите ще работят върху предоставен код, който може да бъде написан на C#, Python или друг език избран от тях.
+Дискусия и обратна връзка върху представените проекти.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="18">
+                                <input type="hidden" name="site_modul_id" value="7731">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading19">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse19" aria-expanded="true" aria-controls="collapse19">
+													<span>
+                                          19                                       </span>
+                                       <div>Концепция  (19.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 6: Цялостна разработка на Full Stack приложение с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse19" class="collapse " aria-labelledby="collapse19" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Избор на идея за проект. Планиране на архитектурата на приложението.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="19">
+                                <input type="hidden" name="site_modul_id" value="7733">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading20">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse20" aria-expanded="true" aria-controls="collapse20">
+													<span>
+                                          20                                       </span>
+                                       <div>Основи на уеб технологиите  (24.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 6: Цялостна разработка на Full Stack приложение с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse20" class="collapse " aria-labelledby="collapse20" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Бързо усвояване на HTML, CSS, JavaScript и REST API концепции чрез AI като “учител” под ръководството на преподавателя.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="20">
+                                <input type="hidden" name="site_modul_id" value="7734">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading21">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse21" aria-expanded="true" aria-controls="collapse21">
+													<span>
+                                          21                                       </span>
+                                       <div>Генериране на Frontend &amp; Backend с AI:  (26.02.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 6: Цялостна разработка на Full Stack приложение с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse21" class="collapse " aria-labelledby="collapse21" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Използване на AI инструменти, за създаване на UI компоненти (например с React, Vue или Blazor) и API логика на C#, Python или Node.js.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="21">
+                                <input type="hidden" name="site_modul_id" value="7735">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading22">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse22" aria-expanded="true" aria-controls="collapse22">
+													<span>
+                                          22                                       </span>
+                                       <div>Интеграция с база данни. Интеграция с външни API и услуги  (05.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 6: Цялостна разработка на Full Stack приложение с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse22" class="collapse " aria-labelledby="collapse22" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Създаване на база данни в Supabase с помощта на AI промптове. Дефиниране на таблици и връзки. Автентикация, обработка на грешки. </p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="22">
+                                <input type="hidden" name="site_modul_id" value="7736">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading23">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse23" aria-expanded="true" aria-controls="collapse23">
+													<span>
+                                          23                                       </span>
+                                       <div>Деплойване и практика   (10.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 6: Цялостна разработка на Full Stack приложение с AI, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse23" class="collapse " aria-labelledby="collapse23" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Публикуване на готовото приложение в облачна платформа. Изграждане и деплойване на цялостно full-stack приложение, което консумира данни от поне едно външно API.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="23">
+                                <input type="hidden" name="site_modul_id" value="7737">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading24">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse24" aria-expanded="true" aria-controls="collapse24">
+													<span>
+                                          24                                       </span>
+                                       <div>Как да разпознаваме, когато AI агентите “халюцинират'. Етични предизвикателства и добри практики.   (12.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Модул 7: Етика и добри практики в AI-разработката, Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse24" class="collapse " aria-labelledby="collapse24" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Примери за генериране на несъществуващи API-та или неточна информация.
+Пристрастия в AI алгоритмите, сигурност и авторски права. Важността на преглед от човек. Документиране на AI-генерирания код и създаване на ясни промптове.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="24">
+                                <input type="hidden" name="site_modul_id" value="7739">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading25">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse25" aria-expanded="true" aria-controls="collapse25">
+													<span>
+                                          25                                       </span>
+                                       <div>Задача  (17.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Финален проект , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse25" class="collapse " aria-labelledby="collapse25" data-parent="#accordion">
+											<div class="panel-body">
+												<p> Разработка на пълноценно Уеб приложение, използвайки научените Vibe Coding методики. Проектът ще демонстрира уменията на студентите в prompt engineering, работа с AI агенти и интеграция на външни услуги.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="25">
+                                <input type="hidden" name="site_modul_id" value="7741">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading26">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse26" aria-expanded="true" aria-controls="collapse26">
+													<span>
+                                          26                                       </span>
+                                       <div>Работен процес  (19.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Финален проект , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse26" class="collapse " aria-labelledby="collapse26" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Идея и планиране, разработка с Cursor/VSCode Copilot, тестване и деплойване. Възможност за работа в индивидуален или групов проект.</p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="26">
+                                <input type="hidden" name="site_modul_id" value="7742">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading27">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse27" aria-expanded="true" aria-controls="collapse27">
+													<span>
+                                          27                                       </span>
+                                       <div>Презентация  (24.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Финален проект , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse27" class="collapse " aria-labelledby="collapse27" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Представяне на готовия проект. </p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="27">
+                                <input type="hidden" name="site_modul_id" value="7743">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+
+
+									<div class="panel">
+										<div class="panel-title" id="heading28">
+											<div class="ac-head">
+												<button class="btn btn-link" data-toggle="collapse" data-target="#collapse28" aria-expanded="true" aria-controls="collapse28">
+													<span>
+                                          28                                       </span>
+                                       <div>Финален изпит   (26.03.2026 в 18:30 ч.)</div>
+                                       <div style="font-size:14px;">Модул: Финален проект , Продължителност: <b>3 учебни часа</b></div>
+												</button>
+											</div>
+										</div>
+										<div id="collapse28" class="collapse " aria-labelledby="collapse28" data-parent="#accordion">
+											<div class="panel-body">
+												<p>Изпит </p>
+
+
+
+                                                                                       <p class="grayclr"><i><b><i class="fas fa-chevron-circle-right "></i> Все още няма добавено съдържание за тази тема!</b></i></p>
+                                                          <hr>
+                            <div class="row" style="color:#848484; font-size:13px;">
+                                <div class="col-md-12 mb-1">
+                                    <b>Добавяне на материали към лекцията</b>
+                                    <p>Ако искате да добавите материали, изпозлвайте следната форма. За да добавите линк, попълнете Наименование и URL, за да добавите документ, попълнете Наименование и изберете файл, без да попълваър полето URL. Ако желаете каченият ресурс да се показва на курсистите от деня на лецкията, чекирайте "Показвай в деня на лекцията". Ако желаете ресурсът да се показва веднага след публикуването му, не чекирайте това поле! <span style="color:#770000;">Видео записи и линкове към виртуална класна стая се добавят от администратора на сайта!</span></p>
+                                </div>
+                            </div>
+                                                        <form method="POST" action="https://softwareacademy.bg/index.php?q=group_in&amp;id=994" enctype="multipart/form-data">
+                                <div class="row">
+                                        <div class="col-md-2 mb-1"><input type="text" name="material_name" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="Наименование:"></div>
+                                        <div class="col-md-2 offset-md-1 mb-1"><input type="text" name="material_url" value="" style="border:0px; background-color:#E5E5E5; padding:15px;" placeholder="URL (ако е линк):"></div>
+                                        <div class="col-md-1 offset-md-1 mb-1">
+                                            <input type="file" name="material_file" style="border:0px; width:130px; background-color:#E5E5E5; padding:15px;">
+                                        </div>
+                                                                                <div class="col-md-1 offset-md-1 mb-1">
+                                            <button type="submit" value="Submit" onclick="" style="padding:15px; background-color:#696969; color:#FFFFFF; border:#595959;">Публикувай</button>
+                                        </div>
+                                </div>
+                                <input type="hidden" name="idclps" value="28">
+                                <input type="hidden" name="site_modul_id" value="7744">
+                                <input type="hidden" name="group_id" value="994">
+                                <input type="hidden" name="subgo" value="add_material_to_lesson">
+                            </form>
+                                                    											</div>
+										</div>
+									</div>
+
+   <div class="section-title-2 mb20 headline text-left mt-5">
+      <h2>За лектора: изпити за <span>оценяване:</span></h2>
+   </div>
+   <div class="blog-details-content">
+
+
+
+         </div>
+
+
+								</div>
+							</div>
+						</div>
